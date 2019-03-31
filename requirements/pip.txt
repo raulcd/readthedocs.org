@@ -66,6 +66,7 @@ django-gravatar2==1.4.2
 pytz==2018.9
 Unipath==1.1
 django-kombu==0.9.4
+kombu==4.2.1
 mock==2.0.0
 stripe==2.23.0
 
